@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
+  <diagram name="Página-1" id="A0YmeqMfOM-dBmphiVGb">
+    <mxGraphModel dx="1216" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MJFcQJ6GB2hQAnDKke2d-12" target="MJFcQJ6GB2hQAnDKke2d-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Usuario&lt;/h1&gt;&lt;p&gt;Navegador (PC / CELULAR )&lt;/p&gt;&lt;p&gt;registrarse, iniciar sesion, publicar, dar like, comentar, seguir&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="35" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MJFcQJ6GB2hQAnDKke2d-16" target="MJFcQJ6GB2hQAnDKke2d-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Frontend&lt;/h1&gt;&lt;p&gt;HTML, CSS,JS,AJAX&lt;/p&gt;&lt;p&gt;Interfaz Responsive&lt;/p&gt;&lt;p&gt;Feed estilo Pinterest.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="35" width="195" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="42.5" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MJFcQJ6GB2hQAnDKke2d-21" target="MJFcQJ6GB2hQAnDKke2d-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;APIs REST&lt;/h1&gt;&lt;p&gt;auth_api.php (login, registro, logout&lt;/p&gt;&lt;p&gt;api_posts_php (feed, explorar, trending,user)&lt;/p&gt;&lt;p&gt;Devuelve JSON&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="35" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MJFcQJ6GB2hQAnDKke2d-22" target="MJFcQJ6GB2hQAnDKke2d-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="240" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MJFcQJ6GB2hQAnDKke2d-23" target="MJFcQJ6GB2hQAnDKke2d-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Backend PHP&lt;/h1&gt;&lt;p&gt;blogin.php (procesar login)&lt;/p&gt;&lt;p&gt;crear_publicacion.php (subir outfit)&lt;/p&gt;&lt;p&gt;actualizar_perfil.php (editar perfil)&lt;/p&gt;&lt;p&gt;auth_check.php (validacion de sesion)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="265" width="220" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MySQL&lt;/h1&gt;&lt;p&gt;usuario, publicacion,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;likes, comentarios , seguidores, comentarios, seguidores, guardados, notificaciones&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="510" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="MJFcQJ6GB2hQAnDKke2d-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Almacenamiento de Imagenes(Uploads/)&lt;/h1&gt;&lt;p&gt;Guarda fotos de outfits&lt;/p&gt;&lt;p&gt;Relacion con publicaciones&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="510" width="230" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
