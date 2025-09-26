@@ -18,6 +18,9 @@ Explica el proceso de *publicar un outfit* paso a paso.
 Desde que el usuario sube una foto en el frontend, pasa por las APIs, el backend la procesa y termina guardada en la base de datos junto con la imagen.  
 Con este diagrama mostramos cómo viaja la información dentro del sistema.
 
+### 3 Diagrama de Caso de Uso
+Explica el proceso del *usuario interactuando con el sistema*
+Login, Inicio de sesion y todas las secciones que entrega el sistema
 
 ## Herramientas utilizadas
   *Draw.io* para hacer los diagramas.  
